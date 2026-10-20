@@ -1,0 +1,1 @@
+# analise-compras-segmentacao-fornecedores
